@@ -1,20 +1,23 @@
+h1, h2, h3, p {
+    font-family: "Helvetica";
+}
+
 h1 {
     font-size: 100px;
     color: khaki;
 }
 
-h2 {
+.bold {
+    font-weight: bold;
+}
+
+.page-section h2 {
     font-size: 32px;
     color: white;
 }
 
-span {
+.page-section span {
     color: blue;
-}
-
-.helvetica-bold {
-    font-family: Helvetica;
-    font-weight: bold;
 }
 
 #index-page-title {
